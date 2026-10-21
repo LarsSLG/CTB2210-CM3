@@ -1,5 +1,7 @@
 # CTB2210 - Constructiemechanica 3
 
+This fork was just made to copy oit.tudelft.nl/CTB2210 since its down right now for who knows how long
+
 ## Contributors
 - Tom van Woudenberg
 
